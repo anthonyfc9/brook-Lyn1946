@@ -1,0 +1,27 @@
+
+
+Body {
+  font-size:  12px;
+	 line-height:  17px;
+	 font-family: "Times New Roman", serif !important;
+	 color:  #656565}
+
+a.link {text-decoration: none !important}
+a.link:hover {
+color: #20222a !important;
+}
+.images{
+    height:auto;
+    width:80vw;
+  }
+#container{
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+.logosEnd{
+  display: inline-block;
+}
+  .logo{
+    height:auto;
+    width:19vw;
+  }
