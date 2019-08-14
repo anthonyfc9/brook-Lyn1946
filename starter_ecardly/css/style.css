@@ -1,0 +1,83 @@
+
+
+body {
+  /*  What syles apply to all of the body contain */
+  /* background? font-faimly?  etc.*/
+}
+
+a {
+text-decoration: none;
+}
+
+.redText {
+  color: #ff3300;
+}
+
+	.blackText {
+	  color: black;
+	}
+
+
+
+/*-----------------------------------------------------------------------------
+LAYOUT
+-----------------------------------------------------------------------------*/
+
+#container {
+  margin: none;
+  padding: none;
+background-color: #d6d6d6;
+}
+
+#header {
+
+    background-image: url("../images/background.jpg");
+    background-repeat: repeat-x;
+  height: 15vh;
+  width:100vw;
+  padding:0px;
+  margin:0px;
+}
+
+#main {
+background-color: white;
+margin-left: 10vw;
+margin-right: 10vw;
+width: 50vw;
+display: inline-block;
+}
+footer {
+	/* ??  */
+}
+.logoTop{
+  display: block;
+padding: 5px;
+  width: 20vw;
+  height: auto;
+}
+.images{
+  width:50vw;
+  height: auto;
+}
+
+#sidebar{
+  background-color: white;
+  width:20vw;
+  text-align: center;
+}
+.widget{
+  display: inline-block;
+
+}
+  ol{
+    list-style: none;
+  }
+  ul{
+    list-style: none;
+  }
+  footer{
+    text-align: center;
+  }
+  #footer{
+    display: inline-block;
+  }
